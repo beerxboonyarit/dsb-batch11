@@ -1,4 +1,4 @@
-# data science bootcamp 11
+![image](https://github.com/user-attachments/assets/930918ca-32f0-4c68-842f-73e713511123)# data science bootcamp 11
 My data science and analytics projects
 
 ## My personal projects
@@ -8,3 +8,12 @@ My data science and analytics projects
 3. R Programming - Pao Ying Chub
 4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
+
+## Contact Me 
+reach out to me at toy@gmail.com 
+
+## Image   
+![Deadpool](https://media.uiargonaut.com/wp-content/uploads/2016/05/rawrfeb3.jpg)
+
+
+
