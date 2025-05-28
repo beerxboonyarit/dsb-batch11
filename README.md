@@ -6,5 +6,5 @@ My data science and analytics projects
 1. SQL supermarket analysis
 2. SQL churn analysis
 3. R Programming - Pao Ying Chub
-4. Dashboard
+4. Looker GA4 Dashboard
 5. Linear Regression Model using caret
